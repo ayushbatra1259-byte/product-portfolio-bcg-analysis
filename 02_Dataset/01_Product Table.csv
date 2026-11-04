@@ -1,0 +1,21 @@
+Product_id,Product_name,Product_category,launch_date
+1,FreshGlow Soap,Personal Care,15-01-2019
+2,SilkTouch Shampoo,Personal Care,10-03-2020
+3,PureCare Face Wash,Personal Care,20-05-2022
+4,HerbalFresh Toothpaste,Personal Care,12-07-2018
+5,NutriCrunch Biscuits,Food,18-02-2019
+6,ChocoBite Cookies,Food,15-04-2021
+7,GoldenHarvest Noodles,Food,22-08-2020
+8,EnergyPlus Cereal,Food,10-01-2023
+9,AquaPure Detergent,Home Care,14-06-2018
+10,SparkClean Floor Cleaner,Home Care,19-09-2020
+11,UltraWash Liquid,Home Care,11-02-2022
+12,FreshAir Room Spray,Home Care,25-11-2021
+13,VitaBoost Juice,Beverages,16-04-2020
+14,EnergyRush Drink,Beverages,21-07-2022
+15,GreenLeaf Tea,Beverages,17-05-2017
+16,CoolFizz Soda,Beverages,05-12-2019
+17,BabySoft Diapers,Baby Care,12-03-2018
+18,TinyCare Baby Lotion,Baby Care,18-06-2021
+19,GentleBaby Shampoo,Baby Care,14-08-2022
+20,BabyFresh Wipes,Baby Care,20-04-2023
